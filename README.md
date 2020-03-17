@@ -1,3 +1,7 @@
+#Chapter2End-to-End_Machine_Learning_Project
+
+
+
 | Nome | Sistema Operacional | IDE | Distribuição Python | Ambiente Virtual | Browser | CPU | RAM | GPU |
 | --- | --- |--- |--- |--- |--- |--- |--- |--- |
 |**Ilana**	|Windows 10	|VSCode	|Anaconda	|venv	|Chrome	|Processador Intel(R) Core(TM) i3-5005U, CPU @ 2.00 GHz	|4Gb DDR3 1600MHz	||
